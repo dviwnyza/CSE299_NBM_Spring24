@@ -1,0 +1,83 @@
+Clarity Check: "Did the response clearly address the question asked?"
+
+Accuracy Assessment: "How accurate is the information provided in the response?"
+
+Relevance Evaluation: "Does the response stay relevant to the context of the question?"
+
+Depth of Understanding: "Does the response demonstrate a deep understanding of the topic?"
+
+Completeness Examination: "Is the response complete, or are there important aspects missing?"
+
+Consistency Check: "Does the response maintain consistency with previously provided information?"
+
+Engagement Factor: "How engaging is the response? Does it captivate the reader's interest?"
+
+Language Quality: "How well is the response structured grammatically and stylistically?"
+
+Originality Assessment: "Does the response provide unique insights or perspectives?"
+
+Source Reliability: "Is the information provided backed by credible sources?"
+
+
+Detail Analysis**: "Does the response provide sufficient detail to fully address the question?"
+
+Bias Evaluation**: "Is there any indication of bias in the response? If so, how significant is it?"
+
+Timeliness Consideration**: "Is the information provided in the response up-to-date and relevant to the current context?"
+
+Multimodal Assessment**: "If applicable, does the response incorporate relevant images, charts, or other multimedia elements to enhance understanding?"
+
+User Satisfaction**: "Would the response satisfy the needs and expectations of the user who asked the question?"
+
+Cultural Sensitivity**: "Does the response demonstrate sensitivity to cultural nuances or potential differences in interpretation?"
+
+Accessibility Review**: "Is the language used in the response accessible and understandable to a broad audience?"
+
+Logic and Coherence**: "Is the response logically structured and coherent, making it easy to follow?"
+
+Conciseness Check**: "Is the response concise and to the point, or does it contain unnecessary verbosity?"
+
+Adaptability Assessment**: "Can the response adapt to different levels of user expertise or knowledge?"
+
+
+20 prompts specifically focused on evaluating the accuracy of answers:
+
+1. **Factual Accuracy**: "Does the response provide factual information that is verifiable and correct?"
+
+2. **Evidence Support**: "Is the information provided supported by credible sources or evidence?"
+
+3. **Cross-Verification**: "Can the information provided be confirmed through multiple reliable sources?"
+
+4. **Precision Assessment**: "How precise is the information provided? Are there any ambiguities or inaccuracies?"
+
+5. **Historical Accuracy**: "If applicable, does the response accurately reflect historical events or timelines?"
+
+6. **Scientific Validity**: "Does the response align with established scientific principles and findings?"
+
+7. **Statistical Accuracy**: "If numerical data is provided, is it accurate and properly contextualized?"
+
+8. **Quotations Verification**: "If quotes are included, are they accurately attributed and verifiable?"
+
+9. **Expert Consensus**: "Does the response reflect the consensus among experts in the field?"
+
+10. **Peer Review Consideration**: "Would the information provided pass scrutiny in a peer-reviewed context?"
+
+11. **Update Relevance**: "If the information is time-sensitive, is it still accurate and relevant at the time of the evaluation?"
+
+12. **Counterargument Anticipation**: "Has the response considered and addressed potential counterarguments or conflicting viewpoints?"
+
+13. **Geographical Accuracy**: "If the information pertains to a specific location, is it geographically accurate?"
+
+14. **Legal Accuracy**: "If legal information is provided, does it accurately reflect relevant laws and regulations?"
+
+15. **Technical Precision**: "For technical subjects, is the information accurate and reflective of industry standards?"
+
+16. **Cultural Authenticity**: "Does the response accurately represent cultural practices, traditions, or norms?"
+
+17. **Language Translation Reliability**: "If translation is involved, is it accurate and faithful to the original meaning?"
+
+18. **Consistency with Established Knowledge**: "Does the response align with what is commonly known and accepted in the relevant field?"
+
+19. **Feedback Incorporation**: "Has the language model incorporated feedback or corrections from previous evaluations to improve accuracy?"
+
+20. **Reviewer Validation**: "Would an expert reviewer validate the accuracy of the information provided in the response?"
